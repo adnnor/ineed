@@ -6,7 +6,7 @@ It helps you to configure and set up your required platform.
 ```bash
 $ wget https://raw.githubusercontent.com/adnnor/ineed/master/ineed.sh
 $ chmod +x ./ineed.sh
-$ sudo mv vhgen.sh /usr/local/bin/ineed
+$ sudo mv ineed.sh /usr/local/bin/ineed
 ```
 
 ### Usage
