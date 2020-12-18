@@ -4,7 +4,7 @@ It helps you to configure and set up your required platform.
 
 #### Installation
 ```bash
-$ wget https://raw.githubusercontent.com/adnnor/ineed/master/vhgen.sh
+$ wget https://raw.githubusercontent.com/adnnor/ineed/master/ineed.sh
 $ chmod +x ./ineed.sh
 $ sudo mv vhgen.sh /usr/local/bin/ineed
 ```
