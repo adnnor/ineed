@@ -16,6 +16,7 @@ $ sudo ineed magento 2.3.6
 
 ### Limitations
 
+* Three digit version is required, right now no validation is implemented will fixed be in next version.
 * Only supports Magento, Laravel is on its way.
 * Nginx support is coming soon.
 * Magento 2.4, the elasticsearch will be configured, but you have to put the details under `env.php` manually, next version will fix this. 
