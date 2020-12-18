@@ -9,12 +9,12 @@ $ chmod +x ./ineed.sh
 $ sudo mv ineed.sh /usr/local/bin/ineed
 ```
 
-### Usage
+#### Usage
 ```bash
 $ sudo ineed magento 2.3.6
 ```
 
-### Limitations
+#### Limitations
 
 * Three digit version is required, right now no validation is implemented will fixed be in next version.
 * Only supports Magento, Laravel is on its way.
